@@ -1,0 +1,19 @@
+proceso Ejercicio8
+	definir n,ok,s ,alea Como Entero;
+	escribir"seleccione una opcion:";
+	leer n;
+	Segun n Hacer
+		1:
+			escribir "di ok para un numero al azar:";
+			leer ok;
+			alea= azar ( n);
+			Si n mod 5=
+		
+			Fin Si
+			
+		s:
+			leer s;
+
+	Fin Segun
+	
+FinProceso
